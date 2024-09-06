@@ -50,7 +50,7 @@ var tl2 = gsap.timeline({
         trigger:".section2",
         scroller:"body",
        
-        start:"top 50%",
+        start:"top 40%",
         end:"top 0",
         scrub:2
     }
@@ -59,7 +59,8 @@ var tl2 = gsap.timeline({
 tl2.from(".services",{
     y:30,
     opacity:0,
-    duration:0.5
+    duration:0.5,
+   
 })
 
 

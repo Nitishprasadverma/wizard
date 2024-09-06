@@ -230,3 +230,26 @@ font-family: nitish;
     color: black;
     border-radius: 50%;
 }
+
+
+
+
+
+/* changes */
+.section1-buttom{
+    /* padding-top: 200px; */
+    margin-top: -50px;
+    margin-bottom: 20px;
+}
+
+.section2{
+    margin-top: 30px;
+}
+
+.container{
+    height: 100vh;
+}
+
+.elem h2{
+    margin-bottom: 20px;
+}
