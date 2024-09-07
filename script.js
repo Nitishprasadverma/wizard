@@ -1,8 +1,8 @@
 
-const scroll = new LocomotiveScroll({
-    el: document.querySelector('body'),
-    smooth: true
-});
+// const scroll = new LocomotiveScroll({
+//     el: document.querySelector("main"),
+//     smooth: true
+// });
 
 function page1Animation(){
     var  tl = gsap.timeline();
