@@ -1,3 +1,9 @@
+
+const scroll = new LocomotiveScroll({
+    el: document.querySelector('body'),
+    smooth: true
+});
+
 function page1Animation(){
     var  tl = gsap.timeline();
     tl.from(" nav h1, nav a, .menu button",{
